@@ -1,4 +1,0 @@
-Decomponha Undertale nos três elementos principais do framework MDA
-Mecânicas( identificar as mecânicas básicas), Dinâmicas(descreva como essas técnicas interagem para criar dinâmicas de jogo)  e Estéticas (defina quais respostas emocionais o jogo tenta evocar no jogador)
-
-explique as conexões comente sobre como as mecânicas e dinâmicas contribuem para as estéticas identificadas
